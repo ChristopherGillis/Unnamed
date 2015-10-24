@@ -1,0 +1,7 @@
+# Note: This repo is just for Chris to track his custom code.
+libraries
+modules/*
+!modules/entity_duplicates
+!modules/payment_arbitrary
+!modules/payway_payment
+!modules/pond
